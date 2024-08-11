@@ -2,3 +2,5 @@ ${Date.now()}: Neq Req Recived
 ${Date.now()}: Neq Req Recived
 1723378267449: / New Req Received
 1723378267591: /favicon.ico New Req Received
+1723381015333: POST /product New Req Received
+1723381049844: GET /products New Req Received
